@@ -1,0 +1,25 @@
+GAS AL DÍA — LANDING 02
+
+Extrae TODA la carpeta del ZIP antes de abrir index.html. No necesita instalaciones ni servidor.
+Abre esta carpeta en VS Code para editarla.
+
+index.html: contenido y secciones.
+estilos.css: colores, composición y diseño móvil.
+script.js: menú, selector de hábitos y reto de tres preguntas.
+imagenes/logo.png: logo original de llama, con transparencia.
+imagenes/favicon.svg: icono del navegador.
+imagenes/guajira.jpg: fotografía local de Cabo de la Vela.
+
+Para GitHub Pages: sube el contenido de la carpeta al repositorio; configura Pages desde main y / (root).
+No hay formularios, pagos, analítica, cookies propias ni almacenamiento de respuestas.
+Los resultados del reto se reinician al recargar la página.
+
+ATRIBUCIÓN DE LA FOTOGRAFÍA PARA TU PUBLICACIÓN
+Cabo de la Vela. Guajira — ROCHY HERNÁNDEZ.
+https://commons.wikimedia.org/wiki/File:Cabo_de_la_Vela._Guajira.jpg
+Licencia CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Imagen reducida y presentada con recortes. Conserva esta atribución y añádela en la sección de créditos que prepares antes de publicar.
+
+LOGO
+Creado con ImageGen integrado. Prompt: símbolo original para Gas al Día, llama elegante de curvas limpias, azul cobalto #1649eb y naranja #ff6b28 con centro amarillo #ffda45, composición centrada, sin letras, fondo transparente, sin sombras ni texturas y sin imitar marcas existentes.
+El nombre es una propuesta creativa; no se ha verificado disponibilidad registral o de dominio.
